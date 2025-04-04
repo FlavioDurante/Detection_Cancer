@@ -1,4 +1,4 @@
-# Détéction de Cancer
+# Détéction de Cancer du sein
 
 Dans ce projet de machine learning, nous analysons le cancer du sein en utilisant le jeu de données Breast Cancer Wisconsin (Diagnostic) accessible via ce lien https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
