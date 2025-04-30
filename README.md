@@ -73,8 +73,11 @@ Logistic Regression
 
 
 Accuracy: 0.9883040935672515
+
 Confusion Matrix:
+
  [[115   1]
+ 
  [  1  54]]
 
 Classification Report:
@@ -88,6 +91,7 @@ Classification Report:
 weighted avg       0.99      0.99      0.99       171
 
 ROC AUC Score: 1.00
+
 Average Precision Score: 1.00
 
 
@@ -96,8 +100,11 @@ SVC
 
 
 Accuracy: 0.9766081871345029
+
 Confusion Matrix:
+
  [[115   1]
+ 
  [  3  52]]
 
 Classification Report:
@@ -111,6 +118,7 @@ Classification Report:
 weighted avg       0.98      0.98      0.98       171
 
 ROC AUC Score: 0.99
+
 Average Precision Score: 0.99
 
 ## Licence
